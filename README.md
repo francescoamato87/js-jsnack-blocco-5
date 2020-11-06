@@ -1,1 +1,1 @@
-js-jsnack-blocco-5
+js-jsnacks-blocco-5
